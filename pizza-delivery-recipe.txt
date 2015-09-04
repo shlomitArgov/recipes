@@ -2,8 +2,10 @@ Ingredients:
  - 1 valid credit card
  - Enough credit on the card to pay for the pizza
  - Tip money
+ - Clean clothes
  
 Directions:
  - Browse to www.dominos.co.il
  - Order pizza using the credit card
+ - Change into your clean cloths before the delivery guy shows up 
  - When the pizza arrives, give the delivery guy the tip money
