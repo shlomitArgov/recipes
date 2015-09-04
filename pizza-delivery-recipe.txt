@@ -1,0 +1,9 @@
+Ingredients:
+ - 1 valid credit card
+ - Enough credit on the card to pay for the pizza
+ - Tip money
+ 
+Directions:
+ - Browse to www.dominos.co.il
+ - Order pizza using the credit card
+ - When the pizza arrives, give the delivery guy the tip money
